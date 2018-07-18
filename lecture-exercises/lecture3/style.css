@@ -3,7 +3,7 @@ body {
     color: #FFFFFF;
 }
 
-formatClass {
+.formatClass {
     background: green;
     color: red;
     font-size: 20px;
