@@ -1,0 +1,11 @@
+body {
+    background: #000000;
+    color: #FFFFFF;
+}
+
+formatClass {
+    background: green;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
