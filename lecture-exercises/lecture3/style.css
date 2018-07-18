@@ -9,3 +9,10 @@ body {
     font-size: 20px;
     text-align: center;
 }
+
+.resetClass {
+    background: #FFFFFF;
+    color: #000000;
+    font-size: 14px;
+    text-align: left;
+}

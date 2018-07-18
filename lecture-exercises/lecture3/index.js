@@ -9,3 +9,8 @@ function show() {
 function format() {
     document.getElementById('text1').setAttribute('class', 'formatClass');
 }
+
+function reset() {
+    document.getElementById('text1').setAttribute('class', 'resetClass');
+    show();
+}
